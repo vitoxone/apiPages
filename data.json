@@ -1,0 +1,61 @@
+[
+	{
+		"id":1,
+		"name":"Chile6Miles",
+        "page_type":"landing_1",
+		"description":"Sitio web para proyecto seis miles de chile",
+		"url":"https://www.chile6miles.cl/",
+        "Header": {
+            "logo_banner": "img/logo_banner.png",
+            "title": "titulo",
+            "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        },
+        "About": {
+            "paragraph1": "Chile6Miles, es un proyecto deportivo que busca escalar todas las cumbres de mas de 6.000 msnm de los Andes Chilenos.  Se trata de 37 montañas que cumplen esta característica, que se encuentran distribuidas desde la Región de Arica y Parinacota, hasta la Región Metropolitana. Dentro de este grupo de montañas, existen algunas icónicas, como el Volcán Ojos del Salado que con sus 6.893 msnm, se alza como el volcán activo más grande del mundo y la segunda mayor altura de américa, o el Cerro Marmolejo, que con sus 6.108 msnm tiene la categoría de ser el 6mil más austral del mundo.",
+            "paragraph2": "Dado que no existen registros de equipos chilenos que hayan realizado esta hazaña, buscamos ser los primeros nacionales en lograrlo, detallando rutas e información útil, documentar el cambio climático en la cordillera de los Andes Chilenos y generar material audiovisual actualizado.",
+            "paragraph3": "Siendo Chile un país de montaña y con una cultura montañista creciente, buscamos con este proyecto dar a conocer las altas cumbres Chilenas a la comunidad nacional e internacional, y ser una motivación para experimentar la montaña y su práctica segura.",
+            "invitation": "Los invitamos a seguir nuestra aventura.",
+            "info": "Persigo la felicidad. Y la montaña responde a mi búsqueda.",
+            "author": "[Chantal Maudit]",
+            "image": "img/project.jpg"
+        },
+        "Services": [
+            {
+                "icon": "fa fa-wordpress",
+                "name": "Andesgear",
+                "src": "img/logo_andesgear.png",
+                "page": "https://www.andesgear.cl/"
+            },
+            {
+                "icon": "fa fa-wordpress",
+                "name": "Nespra Smart Devices",
+                "src": "img/logo_nespra.png",
+                "page": "https://www.nespra.net/"
+            },
+            {
+                "icon": "fa fa-wordpress",
+                "name": "Ilustre Municipalidad de Graneros",
+                "src": "img/logo_muni.png",
+                "page": "https://www.municipalidadgraneros.cl/"
+            },
+            {
+                "icon": "fa fa-wordpress",
+                "name": "Ulmo Power Honey",
+                "src": "img/logo_power_honey.png",
+                "page": "https://powerhoney.cl/"
+            },
+            {
+                "icon": "fa fa-cart-arrow-down",
+                "name": "NUMEC Ingeniería y Montaje",
+                "src": "img/logo_numerec.png",
+                "page": "https://www.numec.cl/"
+            },
+            {
+                "icon": "fa fa-cloud-download",
+                "name": "NAC Ingeniería",
+                "src": "img/nac_logo.png",
+                "page": "https://www.nacingenieria.com/"
+            }
+        ]
+	}
+]
