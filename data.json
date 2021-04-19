@@ -21,40 +21,52 @@
         },
         "Services": [
             {
-                "icon": "fa fa-wordpress",
-                "name": "Andesgear",
-                "src": "img/logo_andesgear.png",
-                "page": "https://www.andesgear.cl/"
+                "Service": {
+                    "icon": "fa fa-wordpress",
+                    "name": "Andesgear",
+                    "src": "img/logo_andesgear.png",
+                    "page": "https://www.andesgear.cl/"
+                }
             },
             {
-                "icon": "fa fa-wordpress",
-                "name": "Nespra Smart Devices",
-                "src": "img/logo_nespra.png",
-                "page": "https://www.nespra.net/"
+                "Service": {
+                    "icon": "fa fa-wordpress",
+                    "name": "Nespra Smart Devices",
+                    "src": "img/logo_nespra.png",
+                    "page": "https://www.nespra.net/"
+                }
             },
             {
-                "icon": "fa fa-wordpress",
-                "name": "Ilustre Municipalidad de Graneros",
-                "src": "img/logo_muni.png",
-                "page": "https://www.municipalidadgraneros.cl/"
+                "Service": {
+                    "icon": "fa fa-wordpress",
+                    "name": "Ilustre Municipalidad de Graneros",
+                    "src": "img/logo_muni.png",
+                    "page": "https://www.municipalidadgraneros.cl/"
+                }
             },
             {
-                "icon": "fa fa-wordpress",
-                "name": "Ulmo Power Honey",
-                "src": "img/logo_power_honey.png",
-                "page": "https://powerhoney.cl/"
+                "Service": {
+                    "icon": "fa fa-wordpress",
+                    "name": "Ulmo Power Honey",
+                    "src": "img/logo_power_honey.png",
+                    "page": "https://powerhoney.cl/"
+                }
             },
             {
-                "icon": "fa fa-cart-arrow-down",
-                "name": "NUMEC Ingeniería y Montaje",
-                "src": "img/logo_numerec.png",
-                "page": "https://www.numec.cl/"
+                "Service": {
+                    "icon": "fa fa-cart-arrow-down",
+                    "name": "NUMEC Ingeniería y Montaje",
+                    "src": "img/logo_numerec.png",
+                    "page": "https://www.numec.cl/"
+                }
             },
             {
-                "icon": "fa fa-cloud-download",
-                "name": "NAC Ingeniería",
-                "src": "img/nac_logo.png",
-                "page": "https://www.nacingenieria.com/"
+                "Service": {
+                    "icon": "fa fa-cloud-download",
+                    "name": "NAC Ingeniería",
+                    "src": "img/nac_logo.png",
+                    "page": "https://www.nacingenieria.com/"
+                }
             }
         ]
 	}

@@ -16,7 +16,7 @@ var schema = buildSchema(`
         url: String
         Header: Header
         About: About
-        Services: [Services] 
+        Services: [Services!]
     },
     type Header {
         logo_banner: String
@@ -33,7 +33,7 @@ var schema = buildSchema(`
         image: String
     },
     type Services  {
-        Service: [Service]
+        Service: Service
     },
     type Service  { 
         icon: String
